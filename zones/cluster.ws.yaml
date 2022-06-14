@@ -11,6 +11,7 @@ bejo: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 dev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 tintic: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com] # Register tintic.cluster.ws
 nervive: [ns1.vercel-dns.com, ns2.vercel-dns.com]
+arman: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 on: [ns1.vercel-dns.com, ns2.vercel-dns.com]
 anondev: [ns41.cloudns.net, ns42.cloudns.net, ns43.cloudns.net, ns44.cloudns.net]
 mytest: [ns1.digitalocean.com, ns2.digitalocean.com, ns3.digitalocean.com]
